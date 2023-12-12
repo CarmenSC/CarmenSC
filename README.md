@@ -9,7 +9,9 @@
 <p align="left">
 <br>
 <a href="https://linkedin.com/in/mcsantana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcsantana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/carmen_santana88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carmen_santana88" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/carmen_santana88" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carmen_santana88" height="30" width="40" style="border: 2px solid white;"/>
+</a>
 </p>
 <br>
 <h2 align="left">Languages and Tools:</h2>
