@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carmen</h1>
-<h3 align="center">I am a former research scientist, that changed career to become a Data Scientist. I am passionate about data, AI and explanatory AI</h3>
+<h3 align="center">A former research scientist, now a Data Scientist. I am passionate about data, AI and explanatory AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carmensc&label=Profile%20views&color=0e75b6&style=flat" alt="carmensc" /> </p>
 
